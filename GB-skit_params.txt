@@ -1,0 +1,54 @@
+
+=== (1) TYPE: grass ===
+grass: {'learning_rate': 0.1, 'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 6, 'n_estimators': 150, 'subsample': 0.7}
+
+=== (2) TYPE: fire ===
+fire: {'learning_rate': 0.05, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 150, 'subsample': 0.5}
+
+=== (3) TYPE: water ===
+water: {'learning_rate': 0.1, 'max_depth': 4, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 150, 'subsample': 0.7}
+
+=== (4) TYPE: bug ===
+bug: {'learning_rate': 0.1, 'max_depth': 3, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 150, 'subsample': 0.8}
+
+=== (5) TYPE: normal ===
+normal: {'learning_rate': 0.05, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 150, 'subsample': 0.8}
+
+=== (6) TYPE: poison ===
+poison: {'learning_rate': 0.05, 'max_depth': 2, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 100, 'subsample': 0.5}
+
+=== (7) TYPE: electric ===
+electric: {'learning_rate': 0.1, 'max_depth': 3, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 50, 'subsample': 0.5}
+
+=== (8) TYPE: ground ===
+ground: {'learning_rate': 0.1, 'max_depth': 2, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 100, 'subsample': 0.5}
+
+=== (9) TYPE: fairy ===
+fairy: {'learning_rate': 0.1, 'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 50, 'subsample': 0.5}
+
+=== (10) TYPE: fighting ===
+fighting: {'learning_rate': 0.1, 'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 100, 'subsample': 0.8}
+
+=== (11) TYPE: psychic ===
+psychic: {'learning_rate': 0.1, 'max_depth': 4, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 100, 'subsample': 0.8}
+
+=== (12) TYPE: rock ===
+rock: {'learning_rate': 0.1, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 2, 'n_estimators': 150, 'subsample': 0.7}
+
+=== (13) TYPE: ghost ===
+ghost: {'learning_rate': 0.1, 'max_depth': 2, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 150, 'subsample': 0.7}
+
+=== (14) TYPE: ice ===
+ice: {'learning_rate': 0.1, 'max_depth': 4, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 50, 'subsample': 0.7}
+
+=== (15) TYPE: dragon ===
+dragon: {'learning_rate': 0.1, 'max_depth': 2, 'max_features': 'sqrt', 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 50, 'subsample': 0.8}
+
+=== (16) TYPE: dark ===
+dark: {'learning_rate': 0.01, 'max_depth': 3, 'max_features': 'log2', 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 100, 'subsample': 0.5}
+
+=== (17) TYPE: steel ===
+steel: {'learning_rate': 0.1, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 50, 'subsample': 0.5}
+
+=== (18) TYPE: flying ===
+flying: {'learning_rate': 0.05, 'max_depth': 3, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 100, 'subsample': 0.8}
