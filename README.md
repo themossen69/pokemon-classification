@@ -56,3 +56,6 @@ Conté totes les dades originals dePokémonutilitzades:
 
 ## Objectiu del projecte
 Construir un sistema capaç de predir el (o els) tipus d’un Pokémon basant-se en les seves estadístiques, característiques físiques i atributs numèrics, així com analitzar quines variables són més importants segons cada tipus.
+
+## Accés al repositori de GIT
+Es pot accedir a tot el contingut del projecte a través del següent enllaç: https://github.com/themossen69/pokemon-classification
